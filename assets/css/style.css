@@ -1,4 +1,7 @@
 body {
-    background-color: blue;
+    background-color: rgb(74, 74, 143);
+}
+form {
     display: flex;
+    flex-direction: column;
 }
